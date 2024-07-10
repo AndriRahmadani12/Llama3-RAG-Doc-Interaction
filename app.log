@@ -1,0 +1,5 @@
+pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+faiss.loader - INFO - Loading faiss with AVX2 support.
+faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+httpx - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
