@@ -7,6 +7,15 @@ Llama3-RAG-Doc-Interaction adalah sebuah proyek yang menggunakan model Llama3 da
 - **Pencarian Berbasis Dokumen:** Menggunakan teknik RAG untuk mencari dan mengambil informasi dari dokumen.
 - **Interaksi Cerdas:** Menggunakan model Llama3 untuk memberikan jawaban yang relevan dan informatif.
 
+## Instalasi Model Llama 3 - 8B Instruct
+
+1. Instal Llama 3 - 8B Instruct di LM Studio:
+   - Unduh dan instal LM Studio dari situs resmi LM Studio.
+   - Di LM Studio, pilih dan download model Llama 3 - 8B Instruct dan ikuti petunjuk untuk menginstalnya.
+  
+2. Aktifkan server lokal di LM Studio:
+   - Setelah model terinstal, aktifkan server lokal di LM Studio untuk memungkinkan integrasi
+
 ## Instalasi
 
 Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini di lingkungan lokal Anda.
