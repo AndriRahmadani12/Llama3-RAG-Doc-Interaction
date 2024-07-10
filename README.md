@@ -30,6 +30,8 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini d
    pip install -r requirements.txt
 
 4. **Jalankan aplikasi:**
+
+   ```bash
    streamlit run app.py
 
    
