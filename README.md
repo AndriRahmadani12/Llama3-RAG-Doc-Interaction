@@ -17,14 +17,14 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini d
    git clone https://github.com/username/Llama3-RAG-Doc-Interaction.git
    cd Llama3-RAG-Doc-Interaction
 
-2. **Buat dan aktifkan lingkungan virtual (opsional tapi disarankan): **
+2. **Buat dan aktifkan lingkungan virtual (opsional tapi disarankan):** 
 
    ```bash
    python -m venv env
    source env/bin/activate  # Untuk Linux/macOS
    .\env\Scripts\activate  # Untuk Windows
 
-3. **Clone repositori ini:**
+3. **Instal dependensi yang diperlukan::**
    
    ```bash
    pip install -r requirements.txt
