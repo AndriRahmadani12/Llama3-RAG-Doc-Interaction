@@ -23,7 +23,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini d
 1. **Clone repositori ini:**
 
    ```bash
-   git clone https://github.com/username/Llama3-RAG-Doc-Interaction.git
+   git clone https://github.com/AndriRahmadani12/Llama3-RAG-Doc-Interaction.git
    cd Llama3-RAG-Doc-Interaction
 
 2. **Buat dan aktifkan lingkungan virtual (opsional tapi disarankan):** 
